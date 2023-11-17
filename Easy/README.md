@@ -1,0 +1,1 @@
+Collection of the easy questions from DataLemur

@@ -9,6 +9,10 @@ This repository includes:
 - SQL queries and solutions
 - Explanations and insights
 
+2/36 Easy Questions
+0/40 Medium Questions
+0/24 Hard Questions
+
 Feel free to explore, learn, and contribute. If you have questions or spot improvements, don't hesitate to open an issue or submit a pull request.
 
 Happy coding!
